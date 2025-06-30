@@ -15,3 +15,11 @@ Each section covers a major pillar of  frontend,  styling,  and modern trends li
 
 ### 2. 🎨 HTML & CSS – Foundations of Web Layout
 > Learn the structure and styling behind every web page.
+> 
+
+## 4. 💻 JavaScript – Core Programming & Browser API
+
+## 5. ⚛️ React.js – Modern UI Development
+
+
+
