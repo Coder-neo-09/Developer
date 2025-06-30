@@ -17,9 +17,16 @@ Each section covers a major pillar of  frontend,  styling,  and modern trends li
 > Learn the structure and styling behind every web page.
 > 
 
-## 4. 💻 JavaScript – Core Programming & Browser API
+## 3. 💻 JavaScript – Core Programming & Browser API
+> Learn the core language of the web from basics to advanced topics.
 
-## 5. ⚛️ React.js – Modern UI Development
+- Covers Variables, Functions, OOP, Async, DOM, Events
+
+## 4. ⚛️ React.js – Modern UI Development
+> Build reactive interfaces using one of the most popular libraries.
+
+- Covers Components, Props, Hooks, Context, Optimization
+
 
 
 
