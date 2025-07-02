@@ -44,7 +44,3 @@ Each section covers a major pillar of frontend development,  styling, deployment
 - Covers Components, Props, Hooks, Context, Optimization
 
 ---
-### 6. 🧭 Next.js – Full Stack with React
-> Build production-ready apps using React & Next.js.
-
-- Covers Server/Client Components, API Routes, Auth, Stripe
