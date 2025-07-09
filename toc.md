@@ -6,13 +6,13 @@ Below is the complete **table of contents** for the Frontend Developer Roadmap 2
 
 ## 1. 📘 Introduction
 
-* [1.1 WebDev Fundamentals](1.introduction/1.1-WebDev-Fundamentals.md)
+* [1.1 WebDev Fundamentals](1.Introduction/1.1Web-development-fundamentals.md)
 
 ---
 
 ## 2. 🎨 HTML & CSS – Foundations of Web Layout
-* 2.1 Preparations
-* 2.2 HTML Elements
+* [2.1 Preparations](2.HTML-&-CSS-Foundations-of-Web-Layout/2.1-Preparations.md)
+* [2.2 HTML Elements](2.HTML-&-CSS-Foundations-of-Web-Layout/2.2-HTML-Elements.md)
 * 2.3 CSS and Query Selectors
 * 2.4 Colors
 * 2.5 Typography
