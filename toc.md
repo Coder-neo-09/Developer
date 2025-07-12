@@ -13,7 +13,7 @@ Below is the complete **table of contents** for the Frontend Developer Roadmap 2
 ## 2. 🎨 HTML & CSS – Foundations of Web Layout
 * [2.1 Preparations](2.HTML-&-CSS-Foundations-of-Web-Layout/2.1-Preparations.md)
 * [2.2 HTML Elements](2.HTML-&-CSS-Foundations-of-Web-Layout/2.2-HTML-Elements.md)
-* 2.3 CSS and Query Selectors
+* [2.3 CSS and Query Selectors](2.HTML-&-CSS-Foundations-of-Web-Layout/2.3-CSS-and-Query-Selectors.md)
 * 2.4 Colors
 * 2.5 Typography
 * 2.6 Text Customization
