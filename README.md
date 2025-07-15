@@ -7,7 +7,7 @@ This open-source course is designed to help you master modern  web development w
 
 ## 🧭 Course Structure
 
-Each section covers a major pillar of frontend development,  styling, deployment, and modern trends like AI and GraphQL.
+Each section covers a major pillar of frontend development,  styling, deployment.
 
 #### [Goto Table of Content](./toc.md)
 
