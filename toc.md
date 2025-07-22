@@ -17,9 +17,9 @@ Below is the complete **table of contents** for the Frontend Developer Roadmap 2
 * [2.4 Colors](2.HTML-&-CSS-Foundations-of-Web-Layout/2.4-Colors.md)
 * [2.5 Typography](2.HTML-&-CSS-Foundations-of-Web-Layout/2.5-Typography.md)
 * [2.6 Text Customization](2.HTML-&-CSS-Foundations-of-Web-Layout/2.6-Text-Customization.md)
-* 2.7 Text Spacing & Alignment
-* 2.8 Functions & At Rules
-* 2.9 Links
+* [2.7 Text Spacing & Alignment](2.HTML-&-CSS-Foundations-of-Web-Layout/2.7-Text-Spacing-&-Alignment.md)
+* [2.8 Functions & At Rules](2.HTML-&-CSS-Foundations-of-Web-Layout/2.8-Functions-&-At-Rules.md)
+* [2.9 Links](2.HTML-&-CSS-Foundations-of-Web-Layout/2.9-Links.md)
 * 2.10 Lists
 * 2.11 Tables
 * 2.12 Forms
