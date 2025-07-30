@@ -23,9 +23,9 @@ Below is the complete **table of contents** for the Frontend Developer Roadmap 2
 * [2.10 Lists](2.HTML-&-CSS-Foundations-of-Web-Layout/2.10-Lists.md)
 * [2.11 Tables](2.HTML-&-CSS-Foundations-of-Web-Layout/2.11-Tables.md)
 * [2.12 Forms](2.HTML-&-CSS-Foundations-of-Web-Layout/2.12-forms.md)
-* 2.13 Media Files
-* 2.14 The Box Model
-* 2.15 Display Types
+* [2.13 Media Files](2.HTML-&-CSS-Foundations-of-Web-Layout/2.13-media-files.md)
+* [2.14 The Box Model](2.HTML-&-CSS-Foundations-of-Web-Layout/2.14-The-Box-Model.md)
+* [2.15 Display Types](2.HTML-&-CSS-Foundations-of-Web-Layout/2.15-Display-Types.md)
 * 2.16 Overflow
 * 2.17 Object Fit
 * 2.18 Aspect Ratio
