@@ -1,58 +1,56 @@
-# 📚  Developer Roadmap 2025 – Table of Contents
+# 📚 Full Stack Developer Roadmap 2025 – Table of Contents
 
-Below is the complete **table of contents** for the Frontend Developer Roadmap 2025 course, organized by module with detailed topic references.
+Below is the complete **table of contents** for the Full Stack Developer Roadmap 2025 course, organized by module with detailed topic references.
 
 ---
 
 ## 1. 📘 Introduction
 
-* [1.1 WebDev Fundamentals](1.Introduction/1.1Web-development-fundamentals.md)
+* [1.1 WebDev Fundamentals](1.introduction/1.1-WebDev-Fundamentals.md)
 
 ---
 
 ## 2. 🎨 HTML & CSS – Foundations of Web Layout
-* [2.1 Preparations](2.HTML-&-CSS-Foundations-of-Web-Layout/2.1-Preparations.md)
-* [2.2 HTML Elements](2.HTML-&-CSS-Foundations-of-Web-Layout/2.2-HTML-Elements.md)
-* [2.3 CSS and Query Selectors](2.HTML-&-CSS-Foundations-of-Web-Layout/2.3-CSS-and-Query-Selectors.md)
-* [2.4 Colors](2.HTML-&-CSS-Foundations-of-Web-Layout/2.4-Colors.md)
-* [2.5 Typography](2.HTML-&-CSS-Foundations-of-Web-Layout/2.5-Typography.md)
-* [2.6 Text Customization](2.HTML-&-CSS-Foundations-of-Web-Layout/2.6-Text-Customization.md)
-* [2.7 Text Spacing & Alignment](2.HTML-&-CSS-Foundations-of-Web-Layout/2.7-Text-Spacing-&-Alignment.md)
-* [2.8 Functions & At Rules](2.HTML-&-CSS-Foundations-of-Web-Layout/2.8-Functions-&-At-Rules.md)
-* [2.9 Links](2.HTML-&-CSS-Foundations-of-Web-Layout/2.9-Links.md)
-* [2.10 Lists](2.HTML-&-CSS-Foundations-of-Web-Layout/2.10-Lists.md)
-* [2.11 Tables](2.HTML-&-CSS-Foundations-of-Web-Layout/2.11-Tables.md)
-* [2.12 Forms](2.HTML-&-CSS-Foundations-of-Web-Layout/2.12-forms.md)
-* [2.13 Media Files](2.HTML-&-CSS-Foundations-of-Web-Layout/2.13-media-files.md)
-* [2.14 The Box Model](2.HTML-&-CSS-Foundations-of-Web-Layout/2.14-The-Box-Model.md)
-* [2.15 Display Types](2.HTML-&-CSS-Foundations-of-Web-Layout/2.15-Display-Types.md)
-* [2.16 Overflow](2.HTML-&-CSS-Foundations-of-Web-Layout/2.16-Overflow.md)
-* [2.17 Object Fit](2.HTML-&-CSS-Foundations-of-Web-Layout/2.17-Object-Fit.md)
-* [2.18 Aspect Ratio](2.HTML-&-CSS-Foundations-of-Web-Layout/2.18-Position.md)
-* 2.19 Float
-* 2.20 Position
-* 2.21 The Column Layout
-* 2.22 The Grid Layout
-* 2.23 The Flexbox Layout
-* 2.24 Justify & Align
-* 2.25 Z index
-* 2.26 Visibility & Opacity
-* 2.27 Box Shadow
-* 2.28 Backgrounds
-* 2.29 Gradient
-* 2.30 Blend Modes
-* 2.31 Filters
-* 2.32 Transforms
-* 2.33 Transitions
-* 2.34 Animations
-* 2.35 Cursor & Scroll Behavior
-* 2.36 Responsive Design
-* 2.37 Responsive Media & Text
-* 2.38 Responsive Layout
-* 2.39 Best Practices
-* 2.40 Project #1: Portfolio Landing Page
-* 2.41 Project #2: Startup Homepage
 
+* [2.1 Preparations](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.1-Preparations.md)
+* [2.2 HTML Elements](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.2-HTML-Elements.md)
+* [2.3 CSS and Query Selectors](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.3-CSS-and-Query-Selectors.md)
+* [2.4 Colors](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.4-Colors.md)
+* [2.5 Typography](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.5-Typography.md)
+* [2.6 Text Customization](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.6-Text-Customization.md)
+* [2.7 Text Spacing & Alignment](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.7-Text-Spacing-&-Alignment.md)
+* [2.8 Functions & At Rules](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.8-Functions-&-At-Rules.md)
+* [2.9 Links](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.9-Links.md)
+* [2.10 Lists](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.10-Lists.md)
+* [2.11 Tables](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.11-Tables.md)
+* [2.12 Forms](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.12-forms.md)
+* [2.13 Media Files](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.13-media-files.md)
+* [2.14 The Box Model](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.14-The-Box-Model.md)
+* [2.15 Display Types](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.15-Display-Types.md)
+* [2.16 Overflow](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.16-Overflow.md)
+* [2.17 Object Fit](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.17-Object-Fit.md)
+* [2.18 Position](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.18-Position.md)
+* 2.19 The Column Layout
+* 2.20 The Grid Layout
+* 2.21 The Flexbox Layout
+* 2.22 Justify & Align
+* 2.23 Z index
+* 2.24 Visibility & Opacity
+* 2.25 Box Shadow
+* 2.26 Backgrounds
+* 2.27 Gradient
+* 2.28 Blend Modes
+* 2.29 Filters
+* 2.30 Transforms
+* 2.31 Transitions
+* 2.32 Animations
+* 2.33 Cursor & Scroll Behavior
+* 2.34 Responsive Design
+* 2.35 Responsive Media & Text
+* 2.36 Responsive Layout
+* 2.37 Best Practices
+* 2.38 Project #1: Portfolio Landing Page
+* 2.39 Project #2: Startup Homepage
 
 ---
 
@@ -142,3 +140,79 @@ Below is the complete **table of contents** for the Frontend Developer Roadmap 2
 * 5.21 React.js Optimization
 
 ---
+
+## 6. 🧭 Next.js – Full Stack with React
+
+* 6.1 Next.js Basics
+* 6.2 Routing
+* 6.3 Pages & Layout
+* 6.4 Server vs. Client Components
+* 6.5 API Routes
+* 6.6 Server Actions
+* 6.7 Database Integration
+* 6.8 Data Fetching
+* 6.9 Error Handling
+* 6.10 Middleware
+* 6.11 Links, Navigation & Redirection
+* 6.12 Images
+* 6.13 Scripts
+* 6.14 Fonts
+* 6.15 Lazy Loading
+* 6.16 Caching
+* 6.17 Loading UI
+* 6.18 Project #10: Freelancer Platform
+* 6.19 User Authentication
+* 6.20 Magic Link
+* 6.21 Custom Emails
+* 6.22 Protecting Routes
+* 6.23 OAuth Providers
+* 6.24 Dashboard
+* 6.25 Role Based Access Control
+* 6.26 Payment Integration
+* 6.27 Pricing Page
+* 6.28 Stripe Checkout
+* 6.29 Payment Webhook
+
+---
+
+## 7. ⚙️ Express.js – Backend API Design
+
+* 7.1 Network & HTTP
+* 7.2 A Basic Web App
+* 7.3 Express.js
+* 7.4 Model Layer
+* 7.5 View Layer
+* 7.6 Controller Layer
+* 7.7 Form Handling
+* 7.8 Uploading Files
+* 7.9 Project #6: Issue Tracker API
+* 7.10 Loading Static Files
+* 7.11 ORM Integration
+* 7.12 Adding Relations
+* 7.13 Middleware
+* 7.14 Browser Data Storage
+* 7.15 User Authentication
+* 7.16 REST API
+* 7.17 Best Practices
+* 7.18 Going to Production
+
+---
+
+## 8. 🧠 Advanced Topics – Modern Full Stack Trends
+
+* 8.1 Optimize Your Web App
+* 8.2 TypeScript for Full Stack
+* 8.3 GraphQL with Apollo or URQL
+* 8.4 Docker & Containerization
+* 8.5 Monorepos with Nx or Turborepo
+* 8.6 Edge Functions & Serverless (Vercel/Cloudflare)
+* 8.7 AI Integrations (OpenAI, HuggingFace)
+* 8.8 Testing Frameworks (Vitest, Cypress, Playwright)
+* 8.9 CI/CD and GitHub Actions
+* 8.10 Microservices with Node.js
+* 8.11 Full Stack Deployment (Vercel, Netlify, AWS)
+* 8.12 Project: GraphQL E-Commerce App
+* 8.13 Project: AI Resume Builder
+* 8.14 Project: Realtime Chat with WebSocket
+* 8.15 Project: Video Streaming Platform (Mux/R2)
+* 8.16 Project: Fullstack Monorepo SaaS
