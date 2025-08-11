@@ -30,8 +30,8 @@ Below is the complete **table of contents** for the Full Stack Developer Roadmap
 * [2.16 Overflow](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.16-Overflow.md)
 * [2.17 Object Fit](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.17-Object-Fit.md)
 * [2.18 Position](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.18-Position.md)
-* 2.19 The Column Layout
-* 2.20 The Grid Layout
+* [2.19 The Column Layout](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.19-Column-Layout.md)
+* [2.20 The Grid Layout](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.20-Grid_layout.md)
 * 2.21 The Flexbox Layout
 * 2.22 Justify & Align
 * 2.23 Z index
