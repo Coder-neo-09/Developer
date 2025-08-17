@@ -34,14 +34,14 @@ Below is the complete **table of contents** for the Full Stack Developer Roadmap
 * [2.20 The Grid Layout](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.20-Grid_layout.md)
 * [2.21 The Flexbox Layout](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.21-Flexbox_Layout.md)
 * [2.22 Justify & Align](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.22-Justify-&-Align.md)
-* 2.23 Z index
-* 2.24 Visibility & Opacity
-* 2.25 Box Shadow
-* 2.26 Backgrounds
-* 2.27 Gradient
-* 2.28 Blend Modes
-* 2.29 Filters
-* 2.30 Transforms
+* [2.23 Z index](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.23-Z-index.md)
+* [2.24 Visibility & Opacity](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.24-Visibility-&-Opacity.md)
+* [2.25 Box Shadow](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.25-Box-Shadow.md)
+* [2.26 Backgrounds](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.26-Backgrounds.md)
+* [2.27 Gradient](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.27-Gradient.md)
+* [2.28 Blend Modes](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.28-Blend-Modes.md)
+* [2.29 Filters](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.29-Filters.md)
+* [2.30 Transforms](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.30-Transforms.md)
 * 2.31 Transitions
 * 2.32 Animations
 * 2.33 Cursor & Scroll Behavior
