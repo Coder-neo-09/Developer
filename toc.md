@@ -42,15 +42,15 @@ Below is the complete **table of contents** for the Full Stack Developer Roadmap
 * [2.28 Blend Modes](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.28-Blend-Modes.md)
 * [2.29 Filters](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.29-Filters.md)
 * [2.30 Transforms](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.30-Transforms.md)
-* 2.31 Transitions
-* 2.32 Animations
-* 2.33 Cursor & Scroll Behavior
-* 2.34 Responsive Design
-* 2.35 Responsive Media & Text
-* 2.36 Responsive Layout
-* 2.37 Best Practices
-* 2.38 Project #1: Portfolio Landing Page
-* 2.39 Project #2: Startup Homepage
+* [2.31 Transitions](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.31-Transitions.md)
+* [2.32 Animations](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.32-Animations.md)
+* [2.33 Cursor & Scroll Behavior](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.33-Cursor-&-Scroll-Behavior.md)
+* [2.34 Responsive Design](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.34-Responsive-Design.md)
+* [2.35 Responsive Media & Text](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.35-Responsive-Media-&-Text.md)
+* [2.36 Responsive Layout](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.36-Responsive-Layout.md)
+* [2.37 Best Practices](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.37-Best-Practices.md)
+* [2.38 Project #1: Portfolio Landing Page](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.38-Project-1-Portfolio-Landing-Page.md)
+* [2.39 Project #2: Startup Homepage](./2.HTML-&-CSS-Foundations-of-Web-Layout/2.39-Project-2-Startup-Home-Page.md)
 
 ---
 
