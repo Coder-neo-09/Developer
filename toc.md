@@ -56,16 +56,15 @@ Below is the complete **table of contents** for the Full Stack Developer Roadmap
 
 ## 3. 🌈 TailwindCSS – Utility First Design
 
-* 3.1 Introducing TailwindCSS
-
+* [3.1 Introducing TailwindCSS](./3.TailwindCSS%20–%20Utility%20First%20Design/3.1-Introducing-TailwindCSS.md)
 ---
 
 ## 4. 💻 JavaScript – Core Programming & Browser API
 
-* 4.1 Introduction
-* 4.2 Setting Up a Dev Environment
-* 4.3 Basic Syntax
-* 4.4 Data Types
+* [4.1 Introduction](./4.JavaScript%20–%20Core%20Programming%20&%20Browser%20API/4.1-Introduction.md)
+* [4.2 Setting Up a Dev Environment](./4.JavaScript%20–%20Core%20Programming%20&%20Browser%20API/4.2-Setting-Up-a-Dev-Environment.md)
+* [4.3 Basic Syntax](./4.JavaScript%20–%20Core%20Programming%20&%20Browser%20API/4.3-Basic-Syntax.md)
+* [4.4 Data Types](./4.JavaScript%20–%20Core%20Programming%20&%20Browser%20API/4.4-Data-Types.md)
 * 4.5 Numbers & BigInt
 * 4.6 Strings
 * 4.7 Boolean Values
